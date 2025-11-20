@@ -10,10 +10,10 @@ Setu Digital is a web design and automation agency based in Hyderabad, India, se
 
 **Setu** (सेतु) means "Bridge" in Sanskrit. We bridge the gap between your business goals and digital success.
 
-- **Founded:** 2024
+- **Founded:** 2025
 - **Location:** Hyderabad, Telangana, India
 - **Founder:** Sri Harsha M
-- **Email:** hello@setudigital.com
+- **Email:** sriharsha100260@gmail.com
 - **Phone:** +91 733 093 7354
 - **WhatsApp:** [Chat with us](https://wa.me/917330937354)
 
@@ -180,28 +180,6 @@ Keep your site running smoothly.
 
 ---
 
-## 📁 Project Structure
-
-```
-setu-digital/
-├── README.md                           # This file
-├── website/
-│   ├── index.html                      # Agency website
-│   ├── styles.css                      # Stylesheet
-│   └── script.js                       # JavaScript
-├── templates/
-│   ├── Setu-Digital-Proposal-Template.docx
-│   ├── Setu-Digital-Contract-INR.docx
-│   ├── Setu-Digital-Contract-USD.docx
-│   └── Setu-Digital-Cold-Email-Playbook.docx
-└── assets/
-    ├── logo/
-    ├── portfolio/
-    └── testimonials/
-```
-
----
-
 ## 🎯 Target Markets
 
 ### Primary Niches
@@ -219,7 +197,7 @@ setu-digital/
 ## 📞 Contact & Business Hours
 
 ### Contact Information
-- **Email:** hello@setudigital.com
+- **Email:** sriharsha100260@gmail.com
 - **Phone:** +91 733 093 7354
 - **WhatsApp:** [wa.me/917330937354](https://wa.me/917330937354)
 - **Location:** Hyderabad, Telangana, India
@@ -240,7 +218,7 @@ setu-digital/
 ### For Clients
 
 1. **Initial Contact**
-   - Email us at hello@setudigital.com
+   - Email me at sriharsha100260@gmail.com
    - WhatsApp us for quick response
    - Fill out the contact form on our website
 
@@ -303,18 +281,6 @@ All projects are governed by our standard Service Agreement which covers:
 - Termination
 - Limitation of liability
 
----
-
-## 🔗 Important Links
-
-- **Website:** [setudigital.com](https://setudigital.com) *(Coming soon)*
-- **Portfolio:** [setudigital.com/portfolio](https://setudigital.com/portfolio)
-- **LinkedIn:** [linkedin.com/company/setudigital](https://linkedin.com/company/setudigital)
-- **Twitter:** [@setudigital](https://twitter.com/setudigital)
-- **Dribbble:** [dribbble.com/setudigital](https://dribbble.com/setudigital)
-
----
-
 ## 📝 Changelog
 
 ### Version 1.0.0 (November 2024)
@@ -335,11 +301,12 @@ Thank you for considering Setu Digital for your project. We're committed to deli
 <p align="center">
   <strong>Setu Digital</strong><br>
   Your Bridge to Digital Success<br><br>
-  <a href="mailto:hello@setudigital.com">hello@setudigital.com</a> | 
+  <a href="mailto:sriharsha100260@gmail.com">sriharsha100260@gmail.com</a> | 
   <a href="tel:+917330937354">+91 733 093 7354</a> | 
   <a href="https://wa.me/917330937354">WhatsApp</a>
 </p>
 
 ---
 
-*© 2024 Setu Digital. All rights reserved.*
+*© 2025 Setu Digital. All rights reserved.*
+
