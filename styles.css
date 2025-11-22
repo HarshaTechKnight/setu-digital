@@ -218,7 +218,7 @@ ul {
 .mobile-toggle span {
     width: 25px;
     height: 3px;
-    background: var(--dark);
+    background: #f093fb;
     border-radius: 3px;
     transition: var(--transition);
 }
@@ -1453,7 +1453,7 @@ section {
         top: 100%;
         left: 0;
         width: 100%;
-        background: var(--white);
+        background: #1a1a2e;
         box-shadow: var(--shadow);
         max-height: 0;
         overflow: hidden;
@@ -1471,6 +1471,7 @@ section {
     }
     
     .nav-link {
+        color: #f093fb;
         display: block;
         padding: 12px 0;
         border-bottom: 1px solid var(--gray-light);
